@@ -1,0 +1,580 @@
+[
+    [
+      "DURI",
+      "STASIUN KERETA",
+      "Jl. Duri Utara, Duri Utara, Kec. Tambora, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11270",
+      -6.1552687,
+      106.7990667
+    ],
+    [
+      "GROGOL",
+      "STASIUN KERETA",
+      "Jl. Prof. Dr. Latumeten, Jelambar, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11460",
+      -6.1620214,
+      106.7871829
+    ],
+    [
+      "PESING",
+      "STASIUN KERETA",
+      "Jakarta Barat, RT.5/RW.3, Wijaya Kusuma, Kec. Grogol petamburan",
+      -6.1612604,
+      106.769278
+    ],
+    [
+      "TAMAN KOTA ",
+      "STASIUN KERETA",
+      "16, Jl. Taman Kota No.66, RT.16/RW.5, Kembangan Utara, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610",
+      -6.1592985,
+      106.7545884
+    ],
+    [
+      "BOJONG INDAH ",
+      "STASIUN KERETA",
+      "Jl. Bojong Indah Raya No.6, RW.5, Rw. Buaya, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11740",
+      -6.1601191,
+      106.7340655
+    ],
+    [
+      "RAWA BUAY",
+      "STASIUN KERETA",
+      "Duri Kosambi, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+      -6.1627443,
+      106.7214281
+    ],
+    [
+      "KALI DERES",
+      "STASIUN KERETA",
+      "Jl. Gaga, Semanan, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11850",
+      -6.1660678,
+      106.7016119
+    ],
+    [
+      "PORIS",
+      "STASIUN KERETA",
+      "Gg. H. Muhamad, Poris Gaga, Kec. Batuceper, Kota Tangerang, Banten 15122",
+      -6.1699334,
+      106.677817
+    ],
+    [
+      "BATU EPER",
+      "STASIUN KERETA",
+      "Jl. KH. Agus Salim, Poris Plawad, Kec. Cipondoh, Kota Tangerang, Banten 15141",
+      -6.1699066,
+      106.6712509
+    ],
+    [
+      "TANAH TINGGI",
+      "STASIUN KERETA",
+      "Jl. Benteng Betawi, Tanah Tinggi, Kec. Tangerang, Kota Tangerang, Banten",
+      -6.1754474,
+      106.6433019
+    ],
+    [
+      "TANGERANG",
+      "STASIUN KERETA",
+      "Stasiun pintu tengah Sukarasa, Kec, Jl. Sukamanah II Jl. Warnasari 2 No.gang, Sukasari, Kec. Tangerang, Kota Tangerang, Banten 15118",
+      -6.1761176,
+      106.6347266
+    ],
+    [
+      "TANAH ABANG",
+      "STASIUN KERETA",
+      "Jalan Jati Baru Raya, Jl. Cideng Timur, Kecamatan Tanah Abang, 10250",
+      -6.1856968,
+      106.8086649
+    ],
+    [
+      "PALMERAH",
+      "STASIUN KERETA",
+      "RT.1/RW.3, Gelora, Tanahabang, Central Jakarta City, Jakarta 10270",
+      -6.2072905,
+      106.7953271
+    ],
+    [
+      "KEBAYORAN ",
+      "STASIUN KERETA",
+      "Jl. Mesjid Al Huda No.12, Kby. Lama Utara, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12220",
+      -6.2372422,
+      106.7803338
+    ],
+    [
+      "PONDOK RANJI ",
+      "STASIUN KERETA",
+      "Jl. Setasiun Pd. Ranji, Rengas, Kec. Ciputat Tim., Kota Tangerang Selatan, Banten 15412",
+      -6.2763621,
+      106.7427303
+    ],
+    [
+      "JURANG MANGU ",
+      "STASIUN KERETA",
+      "Jl. Tegal Rotan Raya, Pd. Jaya, Kec. Ciputat, Kota Tangerang Selatan, Banten 15413",
+      -6.2887725,
+      106.72692
+    ],
+    [
+      "SUDIMARA ",
+      "STASIUN KERETA",
+      "Jl. Jombang Raya No.37, Jombang, Kec. Ciputat, Kota Tangerang Selatan, Banten 15414",
+     -6.2969897,
+     106.7105759
+    ],
+    [
+      " RAWA BUNTU ",
+      "STASIUN KERETA",
+      "Jl. Raya Rawa Buntu, Rw. Buntu, Kec. Serpong, Kota Tangerang Selatan, Banten 15318",
+     -6.3150144,
+     106.6740118
+    ],
+    [
+      " SERPONG ",
+      "STASIUN KERETA",
+      "Jl. Pjka No.5-50, Serpong, Kec. Serpong, Kota Tangerang Selatan, Banten 15310",
+     -6.3177165,
+     106.6654702
+    ],
+    [
+      " CISAUK ",
+      "STASIUN KERETA",
+      "Jl. Raya Cisauk Lapan, Sampora, Kec. Cisauk, Tangerang, Banten",
+     -6.3249929,
+     106.6385738
+    ],
+    [
+      " CICAYUR ",
+      "STASIUN KERETA",
+      "Cisauk, Tangerang, Banten",
+     -6.3295734,
+     106.6167364
+    ],
+    [
+      "PARUNG PANJANG ",
+      "STASIUN KERETA",
+      "Jl. Marga Mekar No.54 16360, Parung Panjang, Kec. Parung Panjang, Bogor, Jawa Barat 16360",
+     -6.3442135,
+     106.5677077
+    ],
+    [
+      "CILEJIT ",
+      "STASIUN KERETA",
+      "Taban, Jambe, Tangerang, Banten, Indonesia, Jawa Barat",
+     -6.3543485,
+     106.5073881
+    ],
+    [
+      "DARU ",
+      "STASIUN KERETA",
+      "Daru, Jambe, Tangerang, Banten",
+     -6.3380074,
+     106.4902432
+    ],
+    [
+      "TENJO ",
+      "STASIUN KERETA",
+      "Tenjo, Bogor, Jawa Barat, Indonesia|JL. Raya Tenjo, Tenjo, Jawa Barat",
+     -6.3379591,
+     106.4749222
+    ],
+    [
+      "TIGARAKSA ",
+      "STASIUN KERETA",
+      "Cikasungka, Solear, Tangerang, Banten 15730",
+     -6.3284296,
+     106.4324708
+    ],
+    [
+      "CIKOYA ",
+      "STASIUN KERETA",
+      "Cikasungka, Solear, Banten, Indonesia|Cikasungka, Solear, Banten",
+     -6.3355552,
+     106.4096024
+    ],
+    [
+      "MAJA ",
+      "STASIUN KERETA",
+      "Jl. Raya Maja, Maja, Kec. Kopo, Serang, Banten 42381",
+     -6.3323068,
+     106.3943725
+    ],
+    [
+      "CITERAS  ",
+      "STASIUN KERETA",
+      "Mekarsari, Rangkasbitung, Lebak Regency, Banten 42177",
+     -6.3349337,
+     106.3305023
+    ],
+    [
+      "RANGKAS BITUNG  ",
+      "STASIUN KERETA",
+      "East Muara Ciujung, Rangkasbitung, Lebak Regency, Banten 42314",
+     -6.3526547,
+     106.2493413
+    ],
+    [
+      "KARET  ",
+      "STASIUN KERETA",
+      "Kebon Melati, Tanahabang, Central Jakarta City, Jakarta",
+     -6.3526547,
+     106.2493413
+    ],
+    [
+      "SUDIRMAN  ",
+      "STASIUN KERETA",
+      "10, Jl. Kendal No.24, RW.6, Menteng, 10310",
+     -6.2020343,
+     106.8205626
+    ],
+    [
+      "MANGGARAI  ",
+      "STASIUN KERETA",
+      "H7 Jl. Manggarai Utara, RW.1, Manggarai, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12850",
+     -6.209886,
+     106.848026
+    ],
+    [
+      "JAKARAT KOTA ",
+      "STASIUN KERETA",
+      "Jl. Lada, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110",
+     -6.1375686,
+     106.8124393
+    ],
+    [
+      "JAKARAT KOTA ",
+      "STASIUN KERETA",
+      "Jl. Lada, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110",
+     -6.1375686,
+     106.8124393
+    ],
+    [
+      "JAYAKARTA ",
+      "STASIUN KERETA",
+      "Jl. Pangeran Jayakarta No.28, Mangga Dua Sel., Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 11110",
+     -6.1412801,
+     106.8209439
+    ],
+    [
+      "MANGGA BESAR ",
+      "STASIUN KERETA",
+      "Jl. Karang Anyar, Karang Anyar, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+     -6.149676,
+     106.8248376
+    ],
+    [
+      "SAWAH BESAR ",
+      "STASIUN KERETA",
+      "Jalan Krekot Raya No.6, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 11160",
+     -6.1496492,
+     106.8182715
+    ],
+    [
+      "JUANDA ",
+      "STASIUN KERETA",
+      "Raya, 10710, Jl. Ir H. Juanda I B No.4, Kb. Klp., Kecamatan Gambir, Kota Jakarta Pusat, 10120",
+     -6.1495413,
+     106.7920065
+    ],
+    [
+      "GONDANGDIA ",
+      "STASIUN KERETA",
+      "Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",
+     -6.1860783,
+     106.8303993
+    ],
+    [
+      "CIKINI ",
+      "STASIUN KERETA",
+      "No.5, Jl. Pegangsaan Timur No.RT.4, Pegangsaan, Kec. Menteng, Daerah Khusus Ibukota Jakarta 10310",
+     -6.198551,
+     106.8390746
+    ],
+    [
+      "TEBET ",
+      "STASIUN KERETA",
+      "Tim, Jl. Tebet Raya No.62, Tebet Tim., Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12820",
+     -6.2260624,
+     106.8560948
+    ],
+    [
+      "CAWANG ",
+      "STASIUN KERETA",
+      "Jl. Tebet Timur Raya No.55, Tebet Tim., Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12820",
+     -6.2426597,
+     106.8566268
+    ],
+    [
+      "DUREN KALIBATA ",
+      "STASIUN KERETA",
+      "Jl. Raya Kalibata No.60, Rawajati, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12750",
+     -6.2553358,
+     106.8528508
+    ],
+    [
+      "PASAR MINGGU BARU ",
+      "STASIUN KERETA",
+      "Jalan Batu Merah IV, Pejaten Timur, Pasar Minggu, Kota Jakarta Selatan, 12510",
+     -6.2627784,
+     106.8496685
+    ],
+    [
+      "PASAR MINGGU ",
+      "STASIUN KERETA",
+      "Stasiun, Lenteng Agung, Pasar Minggu, South Jakarta City, Jakarta",
+     -6.2842402,
+     106.8423577
+    ],
+    [
+      "TANJUNG BARAT",
+      "STASIUN KERETA",
+      "Jalan Raya Lenteng Agung Barat, Kebagusan, Pasar Minggu, Kota Jakarta Selatan, 12520",
+     -6.3075847,
+     106.8364913
+    ],
+    [
+      "LENTENG AGUNG ",
+      "STASIUN KERETA",
+      "Jl. Lenteng Agung Raya, Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",
+     -6.3306548,
+     106.8327927
+    ],
+    [
+      "UNIV.PNCASILA ",
+      "STASIUN KERETA",
+      "Jl. Lenteng Agung Raya No.44, Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12630",
+     -6.3389344,
+     106.8322411
+    ],
+    [
+      "UNIV.INDONEDIA ",
+      "STASIUN KERETA",
+      "Pondok Cina, Beji, Depok City, West Java",
+     -6.3608017,
+     106.8303404
+    ],
+    [
+      "PONDOK CINA ",
+      "STASIUN KERETA",
+      "Jl. Lkr. Kampus Blok Mawar No.9, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424",
+     -6.3690732,
+     106.8300194
+    ],
+    [
+      "DEPOK BARU ",
+      "STASIUN KERETA",
+      "Depok, Pancoran Mas, Depok City, West Java",
+     -6.3911232,
+     106.8195145
+    ],
+    [
+      "DEPOK  ",
+      "STASIUN KERETA",
+      "GGS, Jl. St. Depok Lama, Depok, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16431",
+     -6.4050004,
+     106.8150619
+    ],
+    [
+      "CITAYEM ",
+      "STASIUN KERETA",
+      "Jl. Raya Citayam, Bojong Pd. Terong, Kec. Cipayung, Kota Depok, Jawa Barat 16436",
+     -6.4487898,
+     106.8003074
+    ],
+    [
+      "BOJONG GEDE ",
+      "STASIUN KERETA",
+      "Jl. Setapak, Bojonggede, Kec. Bojong Gede, Bogor, Jawa Barat 16923",
+     -6.493243,
+     106.792707
+    ],
+    [
+      "CILEBUT ",
+      "STASIUN KERETA",
+      "Jl. Raya Cilebut No.1, Cilebut Tim., Kec. Sukaraja, Bogor, Jawa Barat 16710",
+     -6.5305336,
+     106.798372
+    ],
+    [
+      "BOGOR ",
+      "STASIUN KERETA",
+      "Cibogor, Central Bogor, Bogor City, West Java 16124",
+     -6.5956045,
+     106.7882263
+    ],
+    [
+      "JATINEGARA ",
+      "STASIUN KERETA",
+      "Jl. Bekasi Barat IV No.7, RW.2, Rw. Bunga, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13350",
+     -6.2152091,
+     106.8680897
+    ],
+    [
+      "CIPINANG ",
+      "STASIUN KERETA",
+      "East Pisangan, Pulo Gadung, East Jakarta City, Jakarta",
+     -6.2151823,
+     106.8615236
+    ],
+    [
+      "KLENDER ",
+      "STASIUN KERETA",
+      "Jatinegara Kaum, Pulo Gadung, East Jakarta City, Jakarta",
+     -6.2128347,
+     106.8978913
+    ],
+    [
+      "BUARAN ",
+      "STASIUN KERETA",
+      "Jl. Waru Doyong No.112, RW.8, Jatinegara, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13930",
+     -6.2155679,
+     106.9210202
+    ],
+    [
+      "KLENDER BARU ",
+      "STASIUN KERETA",
+      "Jl. Pd. Kopi Tim., Penggilingan, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13460",
+     -6.2154994,
+     106.9019086
+    ],
+    [
+      "CAKUNG ",
+      "STASIUN KERETA",
+      "Jl. Raya St. Cakung, Bintara, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13950",
+     -6.2191293,
+     106.9501683
+    ],
+    [
+      "KRANJI ",
+      "STASIUN KERETA",
+      "Jl. I Gusti Ngurah Rai, Kranji, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17135",
+     -6.2245072,
+     106.9776572
+    ],
+    [
+      "BEKASI ",
+      "STASIUN KERETA",
+      "Marga Mulya, Bekasi Utara, Bekasi City, West Java",
+     -6.2366155,
+     106.9970127
+    ],
+    [
+      "BEKASI TIMUR  ",
+      "STASIUN KERETA",
+      "Jl. Ir. H. Juanda No.25, Duren Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17111",
+     -6.246829,
+     107.0158691
+    ],
+    [
+      "TAMBUN ",
+      "STASIUN KERETA",
+      "Tambun, Jl. St. No.37-43, Mekarsari, Kec. Tambun Sel., Jawa Barat 17510",
+     -6.2587066,
+     107.0536383
+    ],
+    [
+      "CIBITUNG ",
+      "STASIUN KERETA",
+      "Jalan Slamet No.18, RT.2/RW.2, Wanasari, Kec. Cibitung, Bekasi, Jawa Barat 17520",
+     -6.258751,
+     107.0957377
+    ],
+    [
+      "CIKARANG ",
+      "STASIUN KERETA",
+      "West, Jl. Yos Sudarso, Karangasih, Kec. Cikarang Utara, Jawa Barat 17530",
+     -6.2554059,
+     107.1429366
+    ],
+    [
+      "PONDOK JATI ",
+      "STASIUN KERETA",
+      "RT.10/RW.9, Pisangan Baru, Matraman, East Jakarta City, Jakarta 13140",
+     -6.2091537,
+     106.8600765
+    ],
+    [
+      "KRAMAT ",
+      "STASIUN KERETA",
+      "dari Jalan Pramuka Jaya Sari, Jl. Penegak Jl. Gugus Depan Gg. II, Paseban, Kec. Senen, Daerah Khusus Ibukota Jakarta 10440",
+     -6.1937975,
+     106.8543425
+    ],
+    [
+      "GANG SENTIONG ",
+      "STASIUN KERETA",
+      "Jl. Kramat Pulo Dalam I, Kramat, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10450",
+     -6.186015,
+     106.8484696
+    ],
+    [
+      "PASAR SENEN ",
+      "STASIUN KERETA",
+      "Jl. St. Senen No.14, Senen, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10410",
+     -6.1747559,
+     106.8421761
+    ],
+    [
+      "KEMAYORAN ",
+      "STASIUN KERETA",
+      "Kemayoran, RT.15/RW.1, South Gunung Sahari, Kemayoran, Central Jakarta City, Jakarta 10610",
+     -6.1618647,
+     106.8393813
+    ],
+    [
+      "RAJAWALI ",
+      "STASIUN KERETA",
+      "North Gunung Sahari, Sawah Besar, Central Jakarta City, Jakarta",
+     -6.1450417,
+     106.8345202
+    ],
+    [
+      "KAMPUNG BANDAN ",
+      "STASIUN KERETA",
+      "Ancol, Pademangan, North Jakarta City, Jakarta",
+     -6.1322146,
+     106.8265271
+    ],
+    [
+      "ANGKE ",
+      "STASIUN KERETA",
+      "Jembatan Lima, Tambora, West Jakarta City, Jakarta",
+     -6.1446736,
+     106.7986703
+    ],
+    [
+      "ANCOL ",
+      "STASIUN KERETA",
+      "West Pademangan, Pademangan, North Jakarta City, Jakarta",
+     -6.127982,
+     106.8429484
+    ],
+    [
+      "TANJUNG PRIUK ",
+      "STASIUN KERETA",
+      "14130, Jl. Tenggiri, Tj. Priok, 14310",
+     -6.1109659,
+     106.8789321
+    ],
+    [
+      "PONDOK RAJEG ",
+      "STASIUN KERETA",
+      "no, Jl. Raya Pondok Rajeg No.2, RW.6, Pd. Rajeg, Cibinong, Bogor, Jawa Barat 16914",
+     -6.4606946,
+     106.8223982
+    ],
+    [
+      "CIBINONG ",
+      "STASIUN KERETA",
+      "Jl. Kp. Kebon Kopi Jl. Padurenan No.Blok, Pabuaran, Cibinong, Bogor, Jawa Barat 16916",
+     -6.4642591,
+     106.8502809
+    ],
+    [
+      "NAMBO ",
+      "STASIUN KERETA",
+      "Jl. Raya Nambo, Bantar Jati, Kec. Klapanunggal, Bogor, Jawa Barat 16710",
+     -6.4662238,
+     106.9040266
+    ]
+]
+
+
+
+
